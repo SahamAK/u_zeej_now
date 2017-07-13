@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 # PostgreSQL driver
 gem 'pg'
-gem 'puma'
+
 # Sinatra driver
 gem 'sinatra', '~> 1.0'
 gem 'sinatra-contrib'
@@ -13,6 +13,9 @@ gem 'activerecord', '~>4.2.0'
 gem 'rake'
 gem 'pry-byebug'
 gem 'shotgun', '~>0.9.1'
+
+# heroku is fun
+gem 'puma'
 
 group :test do
   gem 'shoulda-matchers'
