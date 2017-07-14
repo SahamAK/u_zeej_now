@@ -28,3 +28,19 @@ We would love for you to help make the skeleton more awesome, There are three wa
 3. Code review an open pull request!
 
 Be prepared to give and receive specific, actionable, and kind feedback!
+
+2017-14-07
+SAHAM'S INPUT:
+WHAT HAPPENED SO FAR?
+1.created a .env with the api key
+2. use weatherwunder api.
+ap : awosome print for readabillity
+3. binding.pry
+to stop the program from executing and debuggin in ruby
+
+
+
+
+
+
+
